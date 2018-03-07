@@ -16,14 +16,10 @@ If you are interested in submitting a job to be posted on Animation industry Job
 import rr_jobFinder
 reload(rr_jobFinder)
 ```
-
-
+<a href="https://www.buymeacoffee.com/romerorigger" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 #### How to:
 ![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut.gif)
-
-
-
 
 Thanks to:
 
