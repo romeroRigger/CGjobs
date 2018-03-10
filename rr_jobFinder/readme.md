@@ -18,7 +18,11 @@ reload(rr_jobFinder)
 
 #### How to:
 
+Revision 4
+
 ![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tu2.gif)
+
+Revision 2
 
 ![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut1.gif)
 
