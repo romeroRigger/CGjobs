@@ -14,7 +14,9 @@ If you are interested in submitting a job to be posted on Animation industry Job
 import rr_jobFinder
 reload(rr_jobFinder)
 ```
-<a href="https://www.buymeacoffee.com/romerorigger" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+**Please support the Chris Mayne Google Sheet.**
+
+<a href="https://www.paypal.com/donate/?token=KWPJt_0S9oa6XgDdHPNj3mlfyi4onVgHIN8CSHT0vMwINK-ouXp64cJQgp-WslzGf1aD5G&country.x=US&locale.x=US" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/fundraiser/donate_hand.png" alt="Chris Mayne - Animation Industry Jobs Sheet" width="154" height="93" ></a>
 
 #### How to:
 
