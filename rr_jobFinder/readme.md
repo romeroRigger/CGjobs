@@ -22,7 +22,7 @@ reload(rr_jobFinder)
 
 Revision 4
 
-![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tu2.gif)
+![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut2.gif)
 
 
 Thanks to:
