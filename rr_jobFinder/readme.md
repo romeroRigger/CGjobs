@@ -2,12 +2,10 @@ rr_jobFinder, it's a script tool that works with Autodesk Maya,  created for hel
 
 If you are interested in submitting a job to be posted on Animation industry Job Postings, feel free to use the provided form created by Chris Mayne at the next link: [Animation Industry Job Postings form](http://bit.ly/cgjobsposting)
 
-
-
 #### Usage
 
 1. Copy the `rr_jobFinder` **folder** to your Maya scripts path
-    -  OSX `Library/Preferences/Autodesk/maya/20XX/scripts/`
+    -  OSX `Library/Preferences/Autodesk/maya/scripts/`
     -  WIN `C:/Users/username/maya/scripts/`
 
 2. Run the following code, which will open the search window
@@ -16,17 +14,16 @@ If you are interested in submitting a job to be posted on Animation industry Job
 import rr_jobFinder
 reload(rr_jobFinder)
 ```
-<a href="https://www.buymeacoffee.com/romerorigger" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?token=KWPJt_0S9oa6XgDdHPNj3mlfyi4onVgHIN8CSHT0vMwINK-ouXp64cJQgp-WslzGf1aD5G&country.x=US&locale.x=US)
+ **Please support the Chris Mayne Google Sheet.**
+
 
 #### How to:
-<<<<<<< HEAD
+
+Revision 4
+
 ![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut2.gif)
 
-![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut1.gif)
-
-=======
-![](https://raw.githubusercontent.com/romeroRigger/rr_tools/master/docs/rr_jobFinder_tut.gif)
->>>>>>> 567ce23076b37ac4cb6fecec509df0f2c650ecec
 
 Thanks to:
 
