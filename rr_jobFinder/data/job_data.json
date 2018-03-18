@@ -2,19 +2,6 @@
     "version": "20180317", 
     "jobs": [
         {
-            "City": "City", 
-            "Country": "Country", 
-            "Notes": "Notes", 
-            "Time": "Time (CST)", 
-            "PR/ST": "Province/State", 
-            "Contact": "Source/Contact", 
-            "Studio": "Studio", 
-            "JobTitle": "Job Title", 
-            "Date": "Date", 
-            "On-Site": "On-Site/\nRemote", 
-            "Software": "Software (required/desired/experience with)"
-        }, 
-        {
             "City": "Seattle", 
             "Country": "United States", 
             "Notes": "Studio still recruiting for this position", 
