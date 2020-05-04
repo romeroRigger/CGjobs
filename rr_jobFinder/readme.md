@@ -14,9 +14,6 @@ If you are interested in submitting a job to be posted on Animation industry Job
 import rr_jobFinder
 reload(rr_jobFinder)
 ```
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?token=KWPJt_0S9oa6XgDdHPNj3mlfyi4onVgHIN8CSHT0vMwINK-ouXp64cJQgp-WslzGf1aD5G&country.x=US&locale.x=US)
- **Please support the Chris Mayne Google Sheet.**
-
 
 #### How to:
 
